@@ -30,13 +30,13 @@ JATE is a simple text editor app that functions both online and offline. It has 
 
 # Screenshots
 The following image shows the application retrieves the database, posting to the editor, and saving to DB:
-![Screenshot (112)](https://user-images.githubusercontent.com/109984761/218158577-77a17d36-8e7a-4136-9369-b6d37aaa5e8d.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/109984761/219101712-f26d5c80-d8cc-4c34-81d8-94ccc248d739.png)
 The following image shows the application's `manifest.json` file:
-![Screenshot (113)](https://user-images.githubusercontent.com/109984761/218158575-6275c2c8-e77d-4573-a753-87366a7619aa.png)
+![Screenshot (117)](https://user-images.githubusercontent.com/109984761/219101733-a528a351-3c6b-4aaf-b242-c37acffdf39f.png)
 The following image shows the application's registered `service worker`:
-![Screenshot (114)](https://user-images.githubusercontent.com/109984761/218158570-f9cf4b4f-fff4-4cc5-be74-428bad048600.png)
+![Screenshot (118)](https://user-images.githubusercontent.com/109984761/219101734-292717d7-de1c-4d29-bb0d-62c058954a6d.png)
 The following image shows the application's `IndexedDB` storage:
-![Screenshot (115)](https://user-images.githubusercontent.com/109984761/218158574-06fd482c-5e4b-4d5d-9562-7d4f9ccc1f07.png)
+![Screenshot (119)](https://user-images.githubusercontent.com/109984761/219101731-98cccb13-7df5-41ab-8382-65e73bc43426.png)
 
 # Acceptance Criteria
 
@@ -83,7 +83,7 @@ npm install
 ```
 Run the app with:
 ```
-npm run start:dev
+npm run start
 ```
 # Technologies Used
 
@@ -95,7 +95,7 @@ npm run start:dev
 
 # Project Link
 
-[PWA-Text-Editor Heroku](https://github.com/cmarielorber/NoSQL-Social-Network-API)
+[PWA-Text-Editor Deployed App](https://github.com/cmarielorber/NoSQL-Social-Network-API)
 
 # Contributing and Questions
 
