@@ -95,7 +95,7 @@ npm run start
 
 # Project Link
 
-[PWA-Text-Editor Deployed App](https://github.com/cmarielorber/NoSQL-Social-Network-API)
+[PWA-Text-Editor Deployed App](https://pwa-text-editor-lorber.herokuapp.com/)
 
 # Contributing and Questions
 
